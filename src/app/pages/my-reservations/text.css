@@ -1,0 +1,9 @@
+.text-black {
+  color: black;
+}
+
+
+.border-black {
+  border: 1px solid rgb(198, 11, 67); /* Define el borde de 1 píxel de ancho y de color negro */
+  padding: 10px; /* Ajusta el relleno según sea necesario */
+}
